@@ -6,7 +6,7 @@
 🔭 Currently building: **Neighborly** – a full-stack resource-sharing platform for local communities  
 🧪 Co-building: **2-Week Projects** – a hands-on learning platform used by 700+ MSU students  
 📈 Leading: **Imagine Software @ MSU**, a software consulting club with 700+ student participants  
-💼 Interning at **Zebra Technologies** this summer <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Zebra_Technologies_logo.svg/2560px-Zebra_Technologies_logo.svg.png" width="100" align="center"/>  
+💼 Interning at **Zebra Technologies** this summer
 🌱 Exploring: **Spring Boot, AWS, CI/CD, React**, and scalable backend systems  
 📬 Reach me: [agupta3410@gmail.com](mailto:agupta3410@gmail.com)
 
