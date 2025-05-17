@@ -4,17 +4,18 @@
 ---
 
 🔭 Currently building: **Neighborly** – a full-stack resource-sharing platform for local communities  
-📈 Leading: **Imagine @ MSU**, a software consulting club with 700+ student participants  
-💼 Interning at **Zebra Technologies** this summer  
+🧪 Co-building: **2-Week Projects** – a hands-on learning platform used by 700+ MSU students  
+📈 Leading: **Imagine Software @ MSU**, a software consulting club with 700+ student participants  
+💼 Interning at **Zebra Technologies** this summer <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Zebra_Technologies_logo.svg/2560px-Zebra_Technologies_logo.svg.png" width="100" align="center"/>  
 🌱 Exploring: **Spring Boot, AWS, CI/CD, React**, and scalable backend systems  
 📬 Reach me: [agupta3410@gmail.com](mailto:agupta3410@gmail.com)
 
 ---
 
 ### 💡 Interests
-- Backend + full-stack development
-- Developer productivity tools
-- AI-powered systems and clean UI/UX
+- Backend + full-stack development  
+- Developer productivity tools  
+- AI-powered systems and clean UI/UX  
 
 ---
 
@@ -25,12 +26,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
 </p>
-
-
 
 ---
 
